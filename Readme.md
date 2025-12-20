@@ -9,7 +9,7 @@
 
 This example shows how to capture a bitmap of an MDI child form and display it in the tab header tooltip:
 
-![](https://raw.githubusercontent.com/DevExpress-Examples/xtratabbedmdimanager-how-to-display-thumbnails-for-mdi-child-forms-e2581/13.1.4%2B/media/winforms-tabbed-ui-show-bitmap-hint.png)
+![WinForms XtraTabbedMdiManager - Display thumbnails in tab header tooltips](media/winforms-tabbed-ui-show-bitmap-hint.png)
 
 
 ## Files to Review
@@ -24,3 +24,4 @@ This example shows how to capture a bitmap of an MDI child form and display it i
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
