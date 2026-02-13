@@ -18,7 +18,7 @@ This example shows how to capture a bitmap of an MDI child form and display it i
 * [ThumbnailHelper.cs](./CS/WindowsApplication1/Helper/ThumbnailHelper.cs) (VB: [ThumbnailHelper.vb](./VB/WindowsApplication1/Helper/ThumbnailHelper.vb))
 * [ThumbnailHintHelper.cs](./CS/WindowsApplication1/Helper/ThumbnailHintHelper.cs) (VB: [ThumbnailHintHelper.vb](./VB/WindowsApplication1/Helper/ThumbnailHintHelper.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tabbed-mdi-manager-custom-tab-header-tooltip&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tabbed-mdi-manager-custom-tab-header-tooltip&~~~was_helpful=no)
 
